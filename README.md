@@ -40,3 +40,6 @@ Randomization
 Basic cybersecurity concepts
 
 ✨ Created by Devmini
+
+## 📷 Screenshot
+![App Screenshot](screenshot.png)
